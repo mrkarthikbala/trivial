@@ -1,0 +1,42 @@
+[15-Mar-2015 14:25:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/teamtrivial/public_html/index.php on line 18
+[15-Mar-2015 14:25:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/teamtrivial/public_html/index.php on line 18
+[24-Mar-2015 17:12:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[24-Mar-2015 17:14:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[25-Mar-2015 10:26:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/teamtrivial/public_html/insertUser.php on line 14
+[25-Mar-2015 10:26:26 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/teamtrivial/public_html/insertUser.php on line 17
+[25-Mar-2015 10:26:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, integer given in /home/teamtrivial/public_html/insertUser.php on line 14
+[25-Mar-2015 10:26:59 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/insertUser.php on line 17
+[25-Mar-2015 10:27:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, integer given in /home/teamtrivial/public_html/insertUser.php on line 14
+[25-Mar-2015 10:27:02 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/insertUser.php on line 17
+[25-Mar-2015 10:32:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'Kevin' (T_STRING) in /home/teamtrivial/public_html/insertUser.php on line 12
+[25-Mar-2015 10:52:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/teamtrivial/public_html/insertUser.php on line 12
+[27-Mar-2015 14:36:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 15:05:19 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/teamtrivial/public_html/index.php on line 13
+[27-Mar-2015 15:05:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/teamtrivial/public_html/index.php on line 13
+[27-Mar-2015 15:06:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/teamtrivial/public_html/index.php on line 13
+[27-Mar-2015 16:00:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:00:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:00:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:02:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:02:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:02:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:02:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:02:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:03:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:04:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:04:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[27-Mar-2015 16:04:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/index.php on line 12
+[31-Mar-2015 17:41:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/teamtrivial/public_html/insertUser.php:19) in /home/teamtrivial/public_html/insertUser.php on line 22
+[31-Mar-2015 17:43:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/teamtrivial/public_html/insertUser.php:19) in /home/teamtrivial/public_html/insertUser.php on line 22
+[31-Mar-2015 17:43:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/teamtrivial/public_html/insertUser.php:19) in /home/teamtrivial/public_html/insertUser.php on line 22
+[31-Mar-2015 17:48:47 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/teamtrivial/public_html/insertUser.php on line 19
+[01-Apr-2015 13:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/teamtrivial/public_html/userSearch.php on line 18
+[01-Apr-2015 13:40:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/teamtrivial/public_html/userSearch.php on line 18
+[01-Apr-2015 13:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/teamtrivial/public_html/userSearch.php on line 18
+[01-Apr-2015 13:41:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/teamtrivial/public_html/userSearch.php on line 18

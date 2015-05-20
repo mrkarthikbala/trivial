@@ -1,0 +1,60 @@
+<body>
+	<div ng-controller="questionController">
+		<div id="header">
+		<h1>Trivial Question Uploader</h1>
+		<p>Submit Your Question Here.</p>
+		</div>
+		
+		<form>
+			<!--Subject--> 
+			<h4>Select a Subject</h4>
+			<label><input ng-model="subject" type="radio" value="Biology">Biology</label>
+			<label><input ng-model="subject" type="radio" value="Chemistry">Chemistry</label>
+			<label><input ng-model="subject" type="radio" value="Earth and Space Science">Earth and Space Science</label>
+			<label><input ng-model="subject" type="radio" value="Energy">Energy</label>
+			<label><input ng-model="subject" type="radio" value="General">General</label>
+			<label><input ng-model="subject" type="radio" value="Math">Math</label>
+			<label><input ng-model="subject" type="radio" value="Physics">Physics</label><br>
+			<br/><br/>
+			<!--Difficulty-->
+			<h4>Select a Difficulty (1-1000)</h4>
+			<label><input ng-model="difficulty" ng-init="500"></label>
+			<!--Type-->
+			<h4>Multiple Choice or Short Answer?</h4>
+			<label><input ng-model="type" type="radio" value="Multiple Choice">Multiple Choice</label>
+			<label><input ng-model="type" type="radio" value="Short Answer">Short Answer</label>
+			<br/><br/>
+			<!--Question-->
+			<h4>Question</h4>
+			<textarea class ="textarea" ng-model="question" rows="4" cols="50"></textarea><br>
+			<div ng-show="type == 'Multiple Choice'">
+				<input ng-model="A">Choice A</br>
+				<input ng-model="B">Choice B</br>
+				<input ng-model="C">Choice C</br>
+				<input ng-model="D">Choice D</br>
+			</div>
+			<br/><br/>
+			<!--Answer-->
+			<div ng-show="type=='Short Answer'">
+				<h4>Answer</h4>
+				<textarea ng-model="answer" rows="2" cols="50"></textarea>
+			<!--Add Question-->
+			</div>
+			<div ng-show="type=='Multiple Choice'">
+				<h4>Answer</h4>
+				<form>
+				<input ng-model="answer" type="radio" value="A">A
+				<input ng-model="answer" type="radio" value="B">B
+				<input ng-model="answer" type="radio" value="C">C
+				<input ng-model="answer" type="radio" value="D">D
+				</form>
+			</div>
+			
+			<br/><br/>
+			<button class = "btn btn-default" ng-click="addQuestion()">Add Question</button>
+			<div>
+			    <p ng-model="response"></p>
+			</div>
+		</form>
+	</div>
+</body>

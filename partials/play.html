@@ -1,0 +1,25 @@
+<div>
+	<h1>First, login to boost your MMR!</h1>
+	<input class="form-control" placeholder="Username"ng-model="attemptedUsername">
+	<input class="form-control" placeholder="Password" ng-model="attemptedPassword">
+	<button class="btn btn-default" ng-click="login()">Login</button>
+	
+	
+	<input type="radio" name="individualOrMatch" value = "individual" ng-model="matchPlay">Individual Play
+	<input type="radio" name="individualOrMatch" value = "match" ng-model="matchPlay">Match Play
+	
+	<h1>Start answering questions below!</h1>
+	
+	<button class="btn btn-default" ng-click="getNewQuestion()">Answer Question</button>
+	<div id="questionSpace"></div>
+	
+	<input type="radio" name="answerOption" value="W" ng-model="myAnswer" ng-show="showOptions"><h6 ng-show="showOptions">W</h6>
+	<input type="radio" name="answerOption" value="X" ng-model="myAnswer" ng-show="showOptions"><h6 ng-show="showOptions">X</h6>
+	<input type="radio" name="answerOption" value="Y" ng-model="myAnswer" ng-show="showOptions"><h6 ng-show="showOptions">Y</h6>
+	<input type="radio" name="answerOption" value="Z" ng-model="myAnswer" ng-show="showOptions"><h6 ng-show="showOptions">Z</h6>
+	<button class="btn btn-default" ng-click="submitAnswer()" ng-show="showOptions">Submit</button>
+
+	
+	<input class="form-control" placeholder="answer" ng-model="myAnswer" ng-show="showSubmit">
+	<button class="btn btn-default" ng-click="submitAnswer()" ng-show="showSubmit">Submit</button>
+</div>

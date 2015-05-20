@@ -1,0 +1,52 @@
+<div ng-controller="searchController">
+	<div id="header">
+	<h1>Trivial Question Finder</h1>
+	<p>Search For Your Question Here.</p>
+	</div>
+	
+	<form>
+		<!--Subject--> 
+		<h4>Subject?</h4>
+		<label><input ng-model="subject" type="radio" value="Biology">Biology</label>
+		<label><input ng-model="subject" type="radio" value="Chemistry">Chemistry</label>
+		<label><input ng-model="subject" type="radio" value="Earth">Earth and Space Science</label>
+		<label><input ng-model="subject" type="radio" value="Energy">Energy</label>
+		<label><input ng-model="subject" type="radio" value="General">General</label>
+		<label><input ng-model="subject" type="radio" value="Math">Math</label>
+		<label><input ng-model="subject" type="radio" value="Physics">Physics</label><br>
+		<br/><br/>
+		<!--Type-->
+		<h4>Multiple Choice or Short Answer?</h4>
+		<label><input ng-model="type" type="radio" value="Multiple Choice">Multiple Choice</label>
+		<label><input ng-model="type" type="radio" value="Short Answer">Short Answer</label>
+		<br/><br/>
+		<!--Keyword-->
+		<h4>Keyword?</h4>
+		<textarea class ="textarea" ng-model="keyword" rows="1" cols="50"></textarea><br>
+		<br/><br/>
+		<!--How many?-->
+		<h4>How many?</h4>
+		<select ng-model = "limit">
+       			<option ng-repeat="num in numQ" value="{{num}}">{{num}}</option>
+	       	</select>
+		<br/><br/>
+		
+		<button class = "btn btn-default" ng-click="findQuestions()">Find Questions</button>
+		<script>
+		function show(id)
+		{
+			document.getElementById(id).style.visibility = 'visible';
+		}
+		</script>
+		<div ng-repeat="row in results">
+			<h3>{{ row.question}}</h3>
+			<!--<div id={{row.questionID}} style='visibility:hidden' class='answer'>{{row.answer}}</div><br>
+			<button ng-click="show({{row.questionID}})" >Show Answer</button><br><br>-->
+			Answer: {{row.answer}}
+		</div>
+
+	</form>
+</div>
+
+
+

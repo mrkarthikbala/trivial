@@ -1,0 +1,37 @@
+<div ng-controller="teamController">
+<h1> TEAMS </h1>
+ <h3>Create a team</h3>
+ <form>
+ 	<input class="form-control" placeholder="Team Name" ng-model = "teamName" type="text"><br/>
+ 	
+ 	
+ 	<input class="form-control" placeholder="Email 1" type="text" ng-model="email1"><br/>
+	<input class="form-control" placeholder="Email 2" type="text" ng-model="email2"><br/>
+	<input class="form-control" placeholder="Email 3" type="text" ng-model="email3"><br/>
+	<input class="form-control" placeholder="Email 4" type="text" ng-model="email4"><br/>
+	<input class="form-control" placeholder="Email 5" type="text" ng-model="email5"><br/>
+	
+	{{emails}}
+	<button  class = "btn btn-default" ng-click="createTeam()">Create Team!</button>
+ </form>
+ <br><br>
+ <h3>Your Team</h3>
+ <form>
+ 	<input class="form-control" placeholder="User's Email" type="text" ng-model="userEmail"></input><br/>
+ 	<button class = "btn btn-default" ng-click="findTeam()"> Search for a Users Team </button>
+ </form>
+  <br><br>
+ <h3>Leave Team?</h3>
+ 
+ <!--
+ Start Delete Here
+ -->
+ <form>
+ 	<input class="form-control" placeholder="User's Email" type="text" ng-model="quitterEmail"></input><br/>
+ 	<button class = "btn btn-default" ng-click="leaveTeam()"> Leave Team </button>
+ </form>
+ 
+ <!--
+ End Delete Here
+ -->
+</div>

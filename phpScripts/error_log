@@ -1,0 +1,116 @@
+[11-Apr-2015 14:08:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 17
+[11-Apr-2015 14:08:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 17
+[11-Apr-2015 14:12:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 12
+[11-Apr-2015 14:12:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 12
+[11-Apr-2015 14:12:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 12
+[11-Apr-2015 14:12:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 12
+[11-Apr-2015 14:17:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'do' (T_DO) in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[11-Apr-2015 14:17:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'do' (T_DO) in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[11-Apr-2015 14:17:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'do' (T_DO) in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[11-Apr-2015 14:20:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[11-Apr-2015 14:20:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[11-Apr-2015 14:20:33 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 21
+[11-Apr-2015 14:20:35 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 21
+[11-Apr-2015 14:31:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:31:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:31:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:32:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:33:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:36:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:38:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:38:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 10
+[11-Apr-2015 14:41:54 America/Chicago] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 12
+[11-Apr-2015 14:48:07 America/Chicago] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 12
+[11-Apr-2015 15:59:46 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 16
+[11-Apr-2015 16:12:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 20
+[11-Apr-2015 16:12:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 18
+[11-Apr-2015 16:13:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[11-Apr-2015 16:13:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[11-Apr-2015 16:14:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[11-Apr-2015 16:14:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[14-Apr-2015 16:02:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[14-Apr-2015 16:08:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[14-Apr-2015 16:08:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 19
+[14-Apr-2015 18:18:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/teamtrivial/public_html/phpScripts/login.php on line 27
+[14-Apr-2015 18:18:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/teamtrivial/public_html/phpScripts/login.php on line 27
+[14-Apr-2015 18:18:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/teamtrivial/public_html/phpScripts/login.php on line 27
+[14-Apr-2015 18:19:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/login.php on line 21
+[14-Apr-2015 18:59:42 America/Chicago] PHP Warning:  rand() expects parameter 2 to be long, string given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 22
+[14-Apr-2015 18:59:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 25
+[14-Apr-2015 19:00:38 America/Chicago] PHP Warning:  rand() expects parameter 2 to be long, string given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 22
+[14-Apr-2015 19:00:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 25
+[14-Apr-2015 19:03:06 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 18
+[14-Apr-2015 19:03:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 28
+[14-Apr-2015 19:04:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 29
+[14-Apr-2015 19:06:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 25
+[14-Apr-2015 19:10:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 27
+[14-Apr-2015 19:11:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getNewQuestion.php on line 27
+[16-Apr-2015 13:43:28 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:43:58 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:41 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:47:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 13:59:36 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 14:04:25 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 14:06:21 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/addQuestion.php on line 40
+[16-Apr-2015 15:14:29 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:14:34 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:14:35 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:18:39 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:18:43 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:19:48 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:19:58 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:20:49 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:21:43 America/Chicago] PHP Parse error:  syntax error, unexpected '" AND difficulty < "' (T_CONSTANT_ENCAPSED_STRING) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 17
+[16-Apr-2015 15:23:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 19
+[16-Apr-2015 15:24:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/getMCQuestion.php on line 19
+[16-Apr-2015 16:16:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/teamtrivial/public_html/phpScripts/getTeams.php on line 14
+[16-Apr-2015 16:49:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/teamtrivial/public_html/phpScripts/createNewMatch.php on line 20
+[16-Apr-2015 17:26:56 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/teamtrivial/public_html/phpScripts/userInMatch.php on line 30
+[16-Apr-2015 17:27:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/userInMatch.php on line 16
+[16-Apr-2015 17:30:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/userInMatch.php on line 15
+[16-Apr-2015 17:31:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/userInMatch.php on line 15
+[18-Apr-2015 11:40:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/searchUser.php on line 13
+[18-Apr-2015 11:41:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/searchUser.php on line 13
+[18-Apr-2015 11:41:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/searchUser.php on line 13
+[18-Apr-2015 11:41:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/searchUser.php on line 13
+[18-Apr-2015 13:13:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 31
+[18-Apr-2015 13:13:38 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 31
+[18-Apr-2015 13:23:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 46
+[18-Apr-2015 13:27:02 America/Chicago] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 54
+[18-Apr-2015 13:48:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 13:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 13:49:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 13:50:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 14:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 14:51:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$filters' (T_VARIABLE) in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 29
+[18-Apr-2015 16:15:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 50
+[18-Apr-2015 16:16:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 50
+[18-Apr-2015 16:16:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 50
+[18-Apr-2015 16:17:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 51
+[18-Apr-2015 16:22:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findQuestions.php on line 51
+[18-Apr-2015 18:06:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 18
+[18-Apr-2015 18:06:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 26
+[18-Apr-2015 18:09:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 18
+[18-Apr-2015 18:09:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 26
+[18-Apr-2015 18:11:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 18
+[18-Apr-2015 18:11:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 26
+[18-Apr-2015 18:11:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 18
+[18-Apr-2015 18:11:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 26
+[18-Apr-2015 18:12:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 19
+[18-Apr-2015 18:12:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/getRankings.php on line 27
+[18-Apr-2015 19:02:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 12
+[18-Apr-2015 19:04:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 15
+[18-Apr-2015 19:04:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 15
+[18-Apr-2015 19:05:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 15
+[18-Apr-2015 19:05:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 15
+[18-Apr-2015 19:06:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 15
+[18-Apr-2015 19:07:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/teamtrivial/public_html/phpScripts/findTeam.php on line 16
+[18-Apr-2015 19:09:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/leaveTeam.php on line 12
+[18-Apr-2015 19:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/teamtrivial/public_html/phpScripts/leaveTeam.php on line 12

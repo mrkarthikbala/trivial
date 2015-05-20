@@ -1,0 +1,27 @@
+<div>
+	
+	<h1>Create New Match</h1>
+	
+	<h3>Team 1</h3>
+	<select class="form-control"  ng-model="team1">
+		<option ng-repeat="team in teams" value="{{team}}">{{team}}</option>
+       </select>
+       
+       <h3>Team 2</h3>
+       	<select class="form-control" ng-model="team2">
+		<option ng-repeat="team in teams" value="{{team}}">{{team}}</option>
+       </select>
+       
+       <h4>Number of Questions</h4>
+       <select class="form-control" ng-model = "numQuestionTotal">
+       		<option ng-repeat="num in numQ" value="{{num}}">{{num}}</option>
+       	</select>
+       	<br>
+       	<button class="btn btn-default" ng-click="createMatch()">Create Match</button>
+       	<br><br><br>
+       	<h1>Current Matches</h1>
+       	<div id = "currentMatches"></div>
+       	<br><br>
+       	<h1>All Matches</h1>
+       	<div id = "allMatches"></div>
+</div>

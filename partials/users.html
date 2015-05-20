@@ -1,0 +1,52 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+	<title></title>
+</head>
+<body>
+	<div ng-controller="userController">
+		<div>
+			<h2>Sign Up A User</h2>
+			<form name="signup">
+				<input class="form-control" placeholder="Email" name ="email" ng-model="email" required>
+				<span style="color:red" ng-show="signup.email.$dirty || signup.email.$invalid">
+					<span ng-show="signup.email.$error.required">Email is required.</span>
+				</span>
+				
+				<input class="form-control" placeholder="Username" name = "username" ng-model="username" required>
+				<span style="color:red" ng-show="signup.username.$dirty && signup.username.$invalid">
+					<span ng-show="signup.username.$error.required">Username is required.</span>
+				</span>
+				<input class="form-control" placeholder="Password" name="password" ng-model="password" required>
+				<span style="color:red" ng-show="signup.password.$dirty && signup.password.$invalid">
+					<span ng-show="signup.password.$error.required">Password is required.</span>
+				</span>
+				
+				<button class = "btn btn-default" ng-click="signUp()" ng-disabled="signup.username.$dirty && 					signup.username.$invalid ||  
+signup.email.$dirty && signup.email.$invalid">Sign Up</button>
+			</form>
+			<br/><br/>
+			<h2>Search For A User</h2>
+			<form name="search">
+				<input class="form-control" placeholder="Username" name="username" ng-model="searchUsername" required>
+				<span style="color:red" ng-show="search.username.$dirty && search.username.$invalid">
+					<span ng-show="search.username.$error.required">Username is required.</span>
+				</span>
+				<button class = "btn btn-default" ng-click="searchUser()" ng-disabled="search.username.$dirty && search.username.$invalid ">Find User</button>
+			</form>
+			<br/><br/>
+			<h2>Delete A User</h2>
+			<form name="delete">
+				<input class="form-control" placeholder="Username" name= "username" ng-model="deleteUsername" required>
+				<span style="color:red" ng-show="delete.username.$dirty && delete.username.$invalid">
+					<span ng-show="delete.username.$error.required">Username is required.</span>
+				</span>
+				<button class = "btn btn-default" ng-click="deleteUser()" ng-disabled="delete.username.$dirty && delete.username.$invalid ">Delete User</button>
+			</form>
+		</div>
+		<div>
+		    <p ng-model="response"></p>
+		</div>
+	
+	</div>
+</body>
+</html>

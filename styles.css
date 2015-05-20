@@ -1,0 +1,16 @@
+body{
+	background: url(background.jpg);
+	background-size: cover;
+}
+#main{
+	text-align: center;
+}
+#main h1{
+	color: white;
+	font-size: 200px;
+}
+p{
+	color: white;
+	text-align: center;
+	
+}
